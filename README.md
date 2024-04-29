@@ -1,4 +1,4 @@
-# Chatbot
+# Description
 In this project, we are developing a prototype chatbot engine which can chat with human and provide the answer on specific 
 domain knowledge with Retrieval-Augmented Generation (RAG). In this Github repository, we use the Deutschland-Ticket ( https://int.bahn.de/en/offers/regional/deutschland-ticket ), the subscription ticket for bus and rail offered by Deutsche Bahn, as the domain knowledge
 
