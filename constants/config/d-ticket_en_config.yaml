@@ -1,0 +1,4 @@
+dont_know_answer: "Sorry, given my current knowledge base I cannot answer your request. Let us know at ai@dbahn.com if we should add your request."
+document_name: "d-ticket_en.ndjson"
+service_name: "Deutsche Bahn"
+prompt_file_name: "d-ticket_en_prompt.txt"
