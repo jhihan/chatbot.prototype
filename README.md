@@ -4,7 +4,7 @@ domain knowledge with Retrieval-Augmented Generation (RAG). In this Github repos
 
 Quick start
 =======
-Before running this application, please set up the environment variables first:
+Before running this application, please set up the environment variable for openai api key first:
 ```
 export OPENAI_API_KEY = <YOUR_API_KEY>
 ```
