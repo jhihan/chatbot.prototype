@@ -8,13 +8,13 @@ Before running this application, please set up the environment variable for open
 ```
 export OPENAI_API_KEY = <YOUR_API_KEY>
 ```
-Run this chatbot application:
-```
-python chatbot.py
-```
 Generate the document_embeddings from the domain knowledge which will be used with RAG approach:
 ```
 python embeddings
+```
+Run this chatbot application with the prepared document_embeddings:
+```
+python chatbot.py
 ```
 
 Update a new use case
