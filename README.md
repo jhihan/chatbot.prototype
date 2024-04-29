@@ -43,6 +43,8 @@ The minimum required versions of the respective tools are suggested as followed:
 *   openai >= 0.27.6
 *   tiktoken >= 0.4.0
 
+This project uses [LangChain](https://github.com/langchain/langchain) for building language-based applications. LangChain is licensed under the MIT License.
+
 Contact
 =
 This is a simple prototype. I have developed more robust conversational agents in the production environment. For collaboration or freelance opportunities, please feel free to reach out:
