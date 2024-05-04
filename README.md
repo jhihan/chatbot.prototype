@@ -1,6 +1,12 @@
 # Description
 In this project, we are developing a prototype chatbot engine which can chat with human and provide the answer on specific 
-domain knowledge with Retrieval-Augmented Generation (RAG). In this Github repository, we use the Deutschland-Ticket ( https://int.bahn.de/en/offers/regional/deutschland-ticket ), the subscription ticket for bus and rail offered by Deutsche Bahn, as the domain knowledge
+domain knowledge with Retrieval-Augmented Generation (RAG). In this Github repository, we use the Deutschland-Ticket ( https://int.bahn.de/en/offers/regional/deutschland-ticket ), the subscription ticket for bus and rail offered by Deutsche Bahn, as the domain knowledge.
+
+Please note that the LLM I use here is gpt-3.5-turbo, which has knowledge cutoff at September 2021. 
+The Deutschland-Ticket was introduced from 2022. 
+Therefore, gpt-3.5-turbo doesn't know the information about Deutschland-Ticket, but gpt-4-turbo does!
+So when testing RAG, please make sure that the LLM you use does not know the knowledge you provided. 
+Or it would be meaningless...
 
 Quick start
 =======
