@@ -12,7 +12,7 @@ Quick start
 =======
 Before running this application, please set up the environment variable for openai api key first:
 ```
-export OPENAI_API_KEY = <YOUR_API_KEY>
+export OPENAI_API_KEY=<YOUR_API_KEY>
 ```
 Generate the document_embeddings from the domain knowledge which will be used with RAG approach:
 ```
